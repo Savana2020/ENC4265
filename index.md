@@ -3,9 +3,4 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
-
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
-
-[Start Here instructional page for copying this website](starthere.md)
-<center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
+My name is Savana Thomas, and I am an IT major at UCF. I have begun my final year at UCF and will be graduating this Fall 2025. I have accumulated various skills from both school and work experience. I am proficient in several coding languages including Python, Java, C, and C++. I have taken classes in database management and learned MySQL, as well as computer repair and maintenance. I know the basics of information security, web design, and I taught myself Markdown. For more than five years I worked during the summer on a family-owned watermelon farm advancing to the position of assistant floor manager of the packaging and shipping operation. I held duties such as managing loading operations and ran effective communication between the head floor manager and office workers. The environment was fast paced and I also accumulated skills in multitasking and customer service.
