@@ -27,7 +27,7 @@ Your writing should still be formal enough for this digital portfolio to be incl
 
 ## Assignment
 For this assignment I chose to compare the Archive of Our Own, also referred to as Ao3, fanfiction website in its preset day for to the late 2009 version. This was a very shocking experience as I had not realized how the standards for web design had changed.
-images = ![Ao3 2009 version](image.jpg)  images = ![Ao3 2025  version](![image](https://github.com/user-attachments/assets/2ff0c740-8701-4ae9-8a38-c467444bb986))
+images = ![Ao3 2009 version](image.jpg)  images = ![Ao3 2025  version](!https://github.com/Savana2020/ENC4265/blob/main/Ao3_2025))
 
 The most obvious difference was in the menu of the site. Almost every website today has a top menu usually held with a bar to distinguish it from its surroundings, but for this old version of the page it had its menu bar on the left side, which although not uncommon it was not a separate unmoving section but just part of the page. 
 Which leads me to my next observation, sectioning. There were sections in the 2009 version of Ao3 but only distinguished though bolded text as headings, there was no distinct sectioning with boxes of any kind not even lines. While the current version of the website has headers of larger size and color along with lines to show different sections as well as a alternate color background for a box section.
