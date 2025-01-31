@@ -87,7 +87,7 @@ For this assignment I have chosen to explain the steps that need to be taken to 
 1. Connect the modem.
 - Plug the white coax cable into the circular port marked Cable and finger tighten into the modem then the cable outlet. 
 - Next take the black power cable and plug it in the modem in the port second from bottom marked Power.
-![Step one cable setup](image.jpg)
+![Step one cable setup](step1_fin.jpg)
 - Wait for the lights on the front of the modem labeled Power and Online to turn solid blue.
 2. Connect the modem to the router.
 - Use the yellow ethernet cable, plug it into the yellow port marked Internet on both the modem and the router.
