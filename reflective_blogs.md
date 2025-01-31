@@ -91,7 +91,7 @@ For this assignment I have chosen to explain the steps that need to be taken to 
 - Wait for the lights on the front of the modem labeled Power and Online to turn solid blue.
 2. Connect the modem to the router.
 - Use the yellow ethernet cable, plug it into the yellow port marked Internet on both the modem and the router.
-![Ethernet cable setup](image.jpg)
+![Ethernet cable setup](step2.1.jpg)
 - Then take the remaining black power cable and plug it into the bottom port of the router labeled power.
 ![power cable to router setup](image.jpg)
 - Wait for the light on the front of the router labeled Spectrum to turn either solid blue or pulsing red.
