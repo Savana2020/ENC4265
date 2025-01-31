@@ -93,7 +93,7 @@ For this assignment I have chosen to explain the steps that need to be taken to 
 - Use the yellow ethernet cable, plug it into the yellow port marked Internet on both the modem and the router.
 ![Ethernet cable setup](step2.1.jpg)
 - Then take the remaining black power cable and plug it into the bottom port of the router labeled power.
-![power cable to router setup](image.jpg)
+![power cable to router setup](step2.2.jpg)
 - Wait for the light on the front of the router labeled Spectrum to turn either solid blue or pulsing red.
 3. Connect Your Device to the Wi-Fi Network
 - Open Wi-Fi settings on your chosen device, select the Default Wi-Fi Network Name of the network found on the back of the router, then enter the Password also found on the back of the router.
