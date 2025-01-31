@@ -41,25 +41,67 @@ The website felt incredibly old; it was at times difficult to navigate due to me
 # Quick Start Guide
 
 ## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
+Changes in technology can cause disruptive changes across many industries! On the job in the computer industry, it is likely that you will be asked to complete quick-start guides, tutorials, instructional videos, and manuals in a very short amount of time. Other careers may also require these skills, and given how many of us rely on computers in our daily lives, the updates that are constantly being pushed out, unfortunately, sometimes seem to take the approach of "update now, explain the update to users later" (anybody remember Windows 8Links to an external site.?).
+
+You need to be able to quickly figure out a platform on your own, and then clearly explain how to use it in writing, image, or video (or a combination of these).
 
 ## Where to Start
-Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
+Select a product to explain how to use it right out of the box (this is a figure of speech--your product does not have to come in a box). This can be a video game console, photo editing software, a smart watch, Instagram, an InstantPot, or anything you'd like. The key is that you are writing to a complete novice: somebody who has no idea what to do. Do not assume that your reader has any prior knowledge about any aspect of your product.
 
-## Assignment Steps
-This assignment is a little more structured than others in our course, so please follow these steps:
-1. Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-2. Write a prompt that asks it to generate a quick-start guide for your product of choice. (copy and paste this somewhere - it is part of what you need to turn in)
-3. Evaluate the output. Try to follow the steps yourself, or at least imagine following them.
-4. Prompt it again (and again) if needed (again saving your prompts somewhere).
-5. Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you).
+If you're a Windows user, you should have a Snipping ToolLinks to an external site. installed on your computer already. Search your programs for "snipping tool" (I pinned mine to my taskbar for easy access). This tool will let you take a full screen screenshot or select just a portion of your screen--then you can save it as an image and modify it further if needed using any photo editing software you have. This is ideal if you are explaining software or some other digital platform.
+
+If you're a Mac user, I am sure you have something similar. Here's what I found that might be helpful: https://setapp.com/how-to/snipping-tool-for-macLinks to an external site.
 
 ## What is Due
-On your portfolio, post the following:
-- The name of the tool (with the link if you have it)
-- Your prompts
-- The best output 
-- Your reflection
+A direct link to this post on your Reflective Blog page on your website that includes:
+
+Clear, step-by-step instructions that state what to do to begin using the product
+At least 3 images or screenshots that illustrate 3 different steps (decorative images of the product or its logo do not count)
+Easy-to-understand language so that someone who has never heard of your product could successfully complete the process 
+Tone of a professional tutorial: doesn't sound condescending too informal
+This must be typed directly on your website. The only exception is if you are using Github Pages and it is new to you. In that case only, you can upload a PDF to your Github repository and send me the link to that file on your repository, because screenshots are difficult to center in Markdown. Please name your file something obvious like QuickStartGuide so I can find it.
+### Note:
+if your website is password-protected, you must add a comment on the assignment submission with your password so I can grade it. No password or a link that does not work will result in a 0.
+
+## Assignment type: Vintage
+Since this is the first attempt at true technical writing in this course, I'd like to see how you do without AI tools. Please come up with the steps using your own brain. You may use Grammarly or Spellcheck without adding a note on your post for this one. You may use an AI tool to edit, but please prompt the AI for clear technical writing, ask it to avoid adverbs, and add a statement at the bottom that says "writing edited by ___" and then put the tool you used.
+
+## Tips
+Start with the very first, basic step: open the box, click this link to download the software, etc.
+Only include action steps. The quick-start guide only explains how to do something, not why. (The "why" goes in a different genre we will practice later!)
+Never, ever, ever send your user to a search engine. "Go Google this product name" is almost guaranteed to lose your audience to another (better) Quick-start guide.
+Keep it simple! This is a Quick-Start Guide--you are guiding your reader to just the basics of using the product as quickly as possible. Don't waste their time with tangents or wordy explanations (I'm looking at YOU recipe blogs that make us scroll through your random life stories before getting to the recipe!)
+Number each step
+Bold key words to help your reader skim and quickly find the information they need.
+Caption your images with Figure 1. And a short sentence or phrase describing the image.
+You can use second person (you/your/yours), but be sure your tone is that of a professional tutorial and doesn't sound condescending or overly informal. 
+Please avoid violent words like: hit, smash, slam.
+Please avoid wordy slang: "you're going to want to head over to..."
+Two former students reflected on this assignment and gave their permission to share their reflections with future sections:
+Reflection & Advice 1Download Reflection & Advice 1
+Reflection & Advice 2Download Reflection & Advice 2
+Finally, always check the rubric to see how I'm grading your assignments! 
+
+## Assignment
+For this assignment I have chosen to explain the steps that need to be taken to self-install a Spectrum Wi-Fi modem and router.
+1. Connect the modem.
+- Plug the white coax cable into the circular port marked Cable and finger tighten into the modem then the cable outlet. 
+- Next take the black power cable and plug it in the modem in the port second from bottom marked Power.
+![Step one cable setup](image.jpg)
+- Wait for the lights on the front of the modem labeled Power and Online to turn solid blue.
+2. Connect the modem to the router.
+- Use the yellow ethernet cable, plug it into the yellow port marked Internet on both the modem and the router.
+![Ethernet cable setup](image.jpg)
+- Then take the remaining black power cable and plug it into the bottom port of the router labeled power.
+![power cable to router setup](image.jpg)
+- Wait for the light on the front of the router labeled Spectrum to turn either solid blue or pulsing red.
+3. Connect Your Device to the Wi-Fi Network
+- Open Wi-Fi settings on your chosen device, select the Default Wi-Fi Network Name of the network found on the back of the router, then enter the Password also found on the back of the router.
+4. Activate Modem
+- Click [spectrum](https://www.spectrum.net/selfinstall) and follow the instructions.
+
+
+
 ---
 # Reflective Blog 3
 TBD
