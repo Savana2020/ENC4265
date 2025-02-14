@@ -3,7 +3,7 @@
 # Manual Assessment Memo
 
 **MEMORANDUM**  
-**TO:** Ms. CEO of Product Company  
+**TO:** Ms. CEO of Sony PlayStation  
 **FROM:** Savana Thomas  
 **SUBJECT:** Recommendations for the PlayStation 5 Product manual  
 **DATE:** February 13, 2025  
