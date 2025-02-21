@@ -3,27 +3,10 @@
 # Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
-3. [Reflective Blog 3](#reflective-blog-3)
+3. [Reflective Blog 4](#reflective-blog-4)
    
 # Wayback Analysis
 
-## Assignment Rationale 
-This assignment asks you to explore websites that don't follow contemporary standards in order to think critically about what standards you as a visitor have come to expect and to contemplate why these designs have become so standard across so many different types of sites.
-
-## Where to Start
-Analyze an early website using the Wayback MachineLinks to an external site. Search for an old version of your favorite digital source of news, entertainment, shopping, etc. Make note of its layout and things that you find surprising, out of the ordinary, or just plain odd.  
-
-## What is Due
-Write a short analysis of your findings, and post it in your Reflective Blog section of your Portfolio Website.
-
-Based on your analysis, what norms do we expect websites to have? How jarring is it to see a site that does not follow these norms? What was the experience like for you, a modern Internet user, visiting this outdated site?
-### Tips
-Technical writing is clear and concise. Limit adverbs and excessive description. 
-Remember: never, ever post one giant wall of text for any assignment in this course! 
-Break your writing up with space between paragraphs
-Feel free to also use headings, images, and gifs
-Your writing can be in first person (I, me, my, mine), and it can include opinions
-Your writing should still be formal enough for this digital portfolio to be included as part of your job application materials. 
 
 ## Assignment
 For this assignment I chose to compare the Archive of Our Own, also referred to as Ao3, fanfiction website in its preset day for to the late 2009 version. This was a very shocking experience as I had not realized how the standards for web design had changed.
@@ -40,47 +23,6 @@ The website felt incredibly old; it was at times difficult to navigate due to me
 ---
 # Quick Start Guide
 
-## Assignment Rationale 
-Changes in technology can cause disruptive changes across many industries! On the job in the computer industry, it is likely that you will be asked to complete quick-start guides, tutorials, instructional videos, and manuals in a very short amount of time. Other careers may also require these skills, and given how many of us rely on computers in our daily lives, the updates that are constantly being pushed out, unfortunately, sometimes seem to take the approach of "update now, explain the update to users later" (anybody remember Windows 8Links to an external site.?).
-
-You need to be able to quickly figure out a platform on your own, and then clearly explain how to use it in writing, image, or video (or a combination of these).
-
-## Where to Start
-Select a product to explain how to use it right out of the box (this is a figure of speech--your product does not have to come in a box). This can be a video game console, photo editing software, a smart watch, Instagram, an InstantPot, or anything you'd like. The key is that you are writing to a complete novice: somebody who has no idea what to do. Do not assume that your reader has any prior knowledge about any aspect of your product.
-
-If you're a Windows user, you should have a Snipping ToolLinks to an external site. installed on your computer already. Search your programs for "snipping tool" (I pinned mine to my taskbar for easy access). This tool will let you take a full screen screenshot or select just a portion of your screen--then you can save it as an image and modify it further if needed using any photo editing software you have. This is ideal if you are explaining software or some other digital platform.
-
-If you're a Mac user, I am sure you have something similar. Here's what I found that might be helpful: https://setapp.com/how-to/snipping-tool-for-macLinks to an external site.
-
-## What is Due
-A direct link to this post on your Reflective Blog page on your website that includes:
-
-Clear, step-by-step instructions that state what to do to begin using the product
-At least 3 images or screenshots that illustrate 3 different steps (decorative images of the product or its logo do not count)
-Easy-to-understand language so that someone who has never heard of your product could successfully complete the process 
-Tone of a professional tutorial: doesn't sound condescending too informal
-This must be typed directly on your website. The only exception is if you are using Github Pages and it is new to you. In that case only, you can upload a PDF to your Github repository and send me the link to that file on your repository, because screenshots are difficult to center in Markdown. Please name your file something obvious like QuickStartGuide so I can find it.
-### Note:
-if your website is password-protected, you must add a comment on the assignment submission with your password so I can grade it. No password or a link that does not work will result in a 0.
-
-## Assignment type: Vintage
-Since this is the first attempt at true technical writing in this course, I'd like to see how you do without AI tools. Please come up with the steps using your own brain. You may use Grammarly or Spellcheck without adding a note on your post for this one. You may use an AI tool to edit, but please prompt the AI for clear technical writing, ask it to avoid adverbs, and add a statement at the bottom that says "writing edited by ___" and then put the tool you used.
-
-## Tips
-Start with the very first, basic step: open the box, click this link to download the software, etc.
-Only include action steps. The quick-start guide only explains how to do something, not why. (The "why" goes in a different genre we will practice later!)
-Never, ever, ever send your user to a search engine. "Go Google this product name" is almost guaranteed to lose your audience to another (better) Quick-start guide.
-Keep it simple! This is a Quick-Start Guide--you are guiding your reader to just the basics of using the product as quickly as possible. Don't waste their time with tangents or wordy explanations (I'm looking at YOU recipe blogs that make us scroll through your random life stories before getting to the recipe!)
-Number each step
-Bold key words to help your reader skim and quickly find the information they need.
-Caption your images with Figure 1. And a short sentence or phrase describing the image.
-You can use second person (you/your/yours), but be sure your tone is that of a professional tutorial and doesn't sound condescending or overly informal. 
-Please avoid violent words like: hit, smash, slam.
-Please avoid wordy slang: "you're going to want to head over to..."
-Two former students reflected on this assignment and gave their permission to share their reflections with future sections:
-Reflection & Advice 1Download Reflection & Advice 1
-Reflection & Advice 2Download Reflection & Advice 2
-Finally, always check the rubric to see how I'm grading your assignments! 
 
 ## Assignment
 For this assignment I have chosen to explain the steps that need to be taken to self-install a Spectrum Wi-Fi modem and router.
@@ -103,5 +45,21 @@ For this assignment I have chosen to explain the steps that need to be taken to 
 
 
 ---
-# Reflective Blog 3
-TBD
+# Reflective Blog 4
+
+
+## Prompt P: Create your own brief explanation of how to do something
+## How To Knit
+
+### Making a Slipknot
+The first loop of yarn placed on the right-hand needle is called a Slipknot and is counted as a cast on stitch since you will knit into it on the next row. Pull approximately ten inches of yarn from the yarn skin. Make a circle and place the yarn ball behind the circle. Insert the needle and pull the yarn through to form a loop. Pull down on both ends of the yarn to complete the slipknot. The slipknot counts as your first cast on stitch. 
+### Casting on
+Every knitting project begins by adding loops of yarn onto one needle, this is called casting on. Casting on with a needle involves leaving a four-inch tail making a Slipknot and putting it on the left-hand needle. Insert the right-hand needle from front to back through the loop under the left-hand needle. At the backside of the work, wrap the yarn clockwise around the right-hand needle, catch the strand, and draw it through the slip knot or stitch. Insert the left-hand needle into the loop just formed from back to front and transfer it onto the left-hand needle. Repeat for desired number of stitches.
+### Wrapping yarn and holding needles
+To thread the yarn in your right hand, position the ball of yarn to your left and tail to your right. Hold your right palm facing up and use your right pinky finger to hook the tail toward you. Turn your palm down, allowing the urine to drop under your two middle fingers and over your index finger. The yarn and needles are held lightly in your hands. The point of the right-hand needle will be in the slip knot or first stitch on the left-hand needle. You will position the point from front to back ready to make a knit stitch, or from back to front to make a pearl stitch.
+### Knitting a stitch
+There are two main stiches in knitting, the Knit stich is the first. Hold the needle with the cast on loops under your left hand. The yarn and other needle are under your right hand; Make sure the yarn is on the far side of the needle. Insert the right-hand needle from front to back into the 1st loop the point should be sticking out of the far side, pointing away from you. Using your right index finger to work the yarn, wrap the yarn under and clockwise around the projecting point. Catch the wrap of yarn on the right-handed needle; Draw a loop through to the near side facing you. Then drop the 1st loop off of the left-hand needle, nudge it off with your finger if necessary. You will now have one loop, in knit stitch, on the right-hand needle and one less loop of your original cast on row on the left hand needle. The strand of yarn will now be behind the right-hand needle instead of behind the left-hand needle. That is all there is to it.
+### Pearling a stitch
+The Pearl stitch is the other half of basic hitting. The bumps look like girls, which is why the stitch is called pearl. Make sure the yarn is on the front side of the needle before starting the stitch. Insert the right-hand needle from back to front in the loop on the needle. Wrap the alarm clock counterclockwise, draw the new loop through to the back and drop off the old loop. The strand of working yarn will now be in front of the right-hand needle, instead of in front of the left hand needle the Pearl stitch is exactly as easy as knit stitch because curling is simply knitting from back of the fabric to front. 
+### Binding off
+Binding off is the opposite of casting on. Binding off can be done across an entire row at once or a few stitches at a time to shape necklines or sleeves. Stitches are removed 1 by 1 and locked, so they do not unravel. The bound off edge should be stretchy but firm enough to hold its shape. The most common bind off used is the lift over bind off. Knit lift over bind off: 1st Knit2, lift first stitch over the second stitch, and drop it off the right-handed needle. 2nd Knit 1 and repeat first step until 1 stitch remains, bind off last stitch by pulling the yarn through the last loop. In patterns this is called fastening off.
