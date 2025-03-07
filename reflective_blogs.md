@@ -65,3 +65,14 @@ The Pearl stitch is the other half of basic hitting. The bumps look like girls, 
 Binding off is the opposite of casting on. Binding off can be done across an entire row at once or a few stitches at a time to shape necklines or sleeves. Stitches are removed 1 by 1 and locked, so they do not unravel. The bound off edge should be stretchy but firm enough to hold its shape. The most common bind off used is the lift over bind off. Knit lift over bind off: 1st Knit2, lift first stitch over the second stitch, and drop it off the right-handed needle. 2nd Knit 1 and repeat first step until 1 stitch remains, bind off last stitch by pulling the yarn through the last loop. In patterns this is called fastening off.
 
 I used Word AI to improve my writting
+
+---
+# Reflective Blog 5
+
+
+## Prompt R:
+
+
+When making my chatbot I could see that there were pros and cons. An AI is very good at taking in and repeating fact but it also struggles to understand how much information to give, often times reiterate all information it has on the topic, and must be trained to give this information in degrees. I also noticed it struggled to read in information not in basic format. My original resume had to be broken down into basic text instead of the structured table it was originally in so that the chatbot could read it. But the chatbot was able to very easily generate a personalized experience and felt much more human like than anticipated. I believe that chatbot will definitly be used a lot more often in the future, becoming integrated in daily life.
+
+No AI was used in this reflective blog
