@@ -4,6 +4,8 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 4](#reflective-blog-4)
+4. [Reflective Blog 5](#reflective-blog-5)
+5. [Reflective Blog 6](#reflective-blog-6)
    
 # Wayback Analysis
 
@@ -76,3 +78,22 @@ I used Word AI to improve my writting
 When making my chatbot I could see that there were pros and cons. An AI is very good at taking in and repeating fact but it also struggles to understand how much information to give, often times reiterate all information it has on the topic, and must be trained to give this information in degrees. I also noticed it struggled to read in information not in basic format. My original resume had to be broken down into basic text instead of the structured table it was originally in so that the chatbot could read it. But the chatbot was able to very easily generate a personalized experience and felt much more human like than anticipated. I believe that chatbot will definitly be used a lot more often in the future, becoming integrated in daily life.
 
 No AI was used in this reflective blog
+
+
+---
+# Reflective Blog 6
+
+## Prompt Q:
+
+I entered my resume into my Chatbot AI and asked it to revise it to better appeal to prospective employers. The improvements it made include:
+1. Added a strong professional summary
+2. Organized skills into clear categories
+3. Enhanced job experience descriptions with action verbs
+4. Created distinct sections for better readability
+5. Highlighted both technical and soft skills
+6. Incorporated information from your interview responses to strengthen the profile
+
+I really liked the professional summary that the AI provided, I sometimes struggle to describe myself and this was a great help. While my resume already had sections the AI provided clearer titles and added a few sections I had not realized were necessary. I really appreciated the enhanced job descriptions as I was unaware that this was a suggested aspect of resumes. Overall the AI was very helpfull in strengthening my resume and I will be implementing the suggested improvements.
+
+No AI was used in the writting of this reflective blog.
+
