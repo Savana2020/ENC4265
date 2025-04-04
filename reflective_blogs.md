@@ -6,6 +6,7 @@
 3. [Reflective Blog 4](#reflective-blog-4)
 4. [Reflective Blog 5](#reflective-blog-5)
 5. [Reflective Blog 6](#reflective-blog-6)
+6. [Reflective Blog 8](#reflective-blog-8)
    
 # Wayback Analysis
 
@@ -58,11 +59,11 @@ The first loop of yarn placed on the right-hand needle is called a Slipknot and 
 ### Casting on
 Every knitting project begins by adding loops of yarn onto one needle, this is called casting on. Casting on with a needle involves leaving a four-inch tail making a Slipknot and putting it on the left-hand needle. Insert the right-hand needle from front to back through the loop under the left-hand needle. At the backside of the work, wrap the yarn clockwise around the right-hand needle, catch the strand, and draw it through the slip knot or stitch. Insert the left-hand needle into the loop just formed from back to front and transfer it onto the left-hand needle. Repeat for desired number of stitches.
 ### Wrapping yarn and holding needles
-To thread the yarn in your right hand, position the ball of yarn to your left and tail to your right. Hold your right palm facing up and use your right pinky finger to hook the tail toward you. Turn your palm down, allowing the urine to drop under your two middle fingers and over your index finger. The yarn and needles are held lightly in your hands. The point of the right-hand needle will be in the slip knot or first stitch on the left-hand needle. You will position the point from front to back ready to make a knit stitch, or from back to front to make a pearl stitch.
+To thread the yarn in your right hand, position the ball of yarn to your left and tail to your right. Hold your right palm facing up and use your right pinky finger to hook the tail toward you. Turn your palm down, allowing the yarn to drop under your two middle fingers and over your index finger. The yarn and needles are held lightly in your hands. The point of the right-hand needle will be in the slip knot or first stitch on the left-hand needle. You will position the point from front to back ready to make a knit stitch, or from back to front to make a pearl stitch.
 ### Knitting a stitch
 There are two main stiches in knitting, the Knit stich is the first. Hold the needle with the cast on loops under your left hand. The yarn and other needle are under your right hand; Make sure the yarn is on the far side of the needle. Insert the right-hand needle from front to back into the 1st loop the point should be sticking out of the far side, pointing away from you. Using your right index finger to work the yarn, wrap the yarn under and clockwise around the projecting point. Catch the wrap of yarn on the right-handed needle; Draw a loop through to the near side facing you. Then drop the 1st loop off of the left-hand needle, nudge it off with your finger if necessary. You will now have one loop, in knit stitch, on the right-hand needle and one less loop of your original cast on row on the left hand needle. The strand of yarn will now be behind the right-hand needle instead of behind the left-hand needle. That is all there is to it.
 ### Pearling a stitch
-The Pearl stitch is the other half of basic hitting. The bumps look like girls, which is why the stitch is called pearl. Make sure the yarn is on the front side of the needle before starting the stitch. Insert the right-hand needle from back to front in the loop on the needle. Wrap the alarm clock counterclockwise, draw the new loop through to the back and drop off the old loop. The strand of working yarn will now be in front of the right-hand needle, instead of in front of the left hand needle the Pearl stitch is exactly as easy as knit stitch because curling is simply knitting from back of the fabric to front. 
+The Pearl stitch is the other half of basic hitting. The bumps look like pearls, which is why the stitch is called pearl. Make sure the yarn is on the front side of the needle before starting the stitch. Insert the right-hand needle from back to front in the loop on the needle. Wrap the alarm clock counterclockwise, draw the new loop through to the back and drop off the old loop. The strand of working yarn will now be in front of the right-hand needle, instead of in front of the left hand needle the Pearl stitch is exactly as easy as knit stitch because purling is simply knitting from back of the fabric to front. 
 ### Binding off
 Binding off is the opposite of casting on. Binding off can be done across an entire row at once or a few stitches at a time to shape necklines or sleeves. Stitches are removed 1 by 1 and locked, so they do not unravel. The bound off edge should be stretchy but firm enough to hold its shape. The most common bind off used is the lift over bind off. Knit lift over bind off: 1st Knit2, lift first stitch over the second stitch, and drop it off the right-handed needle. 2nd Knit 1 and repeat first step until 1 stitch remains, bind off last stitch by pulling the yarn through the last loop. In patterns this is called fastening off.
 
@@ -97,3 +98,24 @@ I really liked the professional summary that the AI provided, I sometimes strugg
 
 No AI was used in the writting of this reflective blog.
 
+---
+# Reflective Blog 8
+
+## Prompt K 
+
+Knitting is a soothing and creative craft where loops of yarn are interwoven to create fabric. Here's a brief guide to get started:  
+
+1. Gather Materials: You'll need yarn, knitting needles (usually matching the size recommended on the yarn label), and scissors.
+2. Casting On: Begin by creating a "slip knot" on one needle, then loop the yarn onto the needle repeatedly to form the starting stitches—this is your foundation.
+3. The Knit Stitch: Hold the needle with the stitches in your left hand and the empty needle in your right. Insert the right needle into the first stitch from front to back. Wrap the yarn around the right needle, then pull it through the stitch to create a new loop. Slide the old stitch off the left needle.
+4. Repeat: Continue knitting across the row, moving one stitch at a time.
+5. Switch Needles: Once you've finished the row, swap the needles so the full one is now in your left hand, and repeat the process for the next row.
+6. Binding Off: When you’re done knitting, secure the final row by passing one stitch over the next until only one remains. Snip the yarn, pull it through the last loop, and tighten.
+
+Knitting involves rhythm and repetition, and beginners can start with simple projects like scarves before progressing to more complex patterns. Practice builds mastery! Let me know if you’d like tips or help choosing your first project.  
+  
+--
+The AIs strengths include: Concise and beginner friendly, Clear structure; Encouragement for practice, Simplified instructions; while its weaknesses are: Less Detail, Limited Variations, No Visuals. My strengths: Technical Precision, Comprehensive Coverage, Step-by-Step Detail; weaknesses: 1)	Length and Complexity, Terminology Assumptions.
+
+    
+--The AI explanation prioritizes simplicity and accessibility, while mine excels in depth and precision. 
