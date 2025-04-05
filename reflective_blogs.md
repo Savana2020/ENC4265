@@ -119,3 +119,5 @@ The AIs strengths include: Concise and beginner friendly, Clear structure; Encou
 
     
 --The AI explanation prioritizes simplicity and accessibility, while mine excels in depth and precision. 
+
+AI was used in the writting of this post.
