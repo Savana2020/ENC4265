@@ -11,7 +11,7 @@ Full product manuals like this one explain steps for several multi-step procedur
 ________________________________________
 Table of Contents 
 
-1. Introduction
+1. [Introduction](###Introduction)
 2. What's in the Box
 3. Console Setup
 4. Attaching the Console Base
@@ -49,7 +49,7 @@ Table of Contents
 36. References
 
 ---
-Introduction
+### Introduction 
 Welcome to your new PlayStation 5! This comprehensive guide will walk you through the complete setup process for your PS5 console, from unboxing to playing your first game. The PS5 represents the next generation of gaming with lightning-fast loading, stunning graphics, and immersive features like haptic feedback and adaptive triggers on the DualSense controller.
 This manual covers everything you need to know to get started, including physical setup, connections, account creation, data transfer from previous consoles, and basic troubleshooting. Whether you're new to PlayStation or upgrading from a previous console, this guide will ensure you get the most out of your PS5 experience.
 
