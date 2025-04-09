@@ -346,7 +346,7 @@ If you encounter system software issues:
 
 ---
 ### AI Statement 
-This manual was created using the Claude-3.7-Sonnet model in the BoodleBox platform. Additional tools used include spellcheck and grammar verification. The structure and content were guided by the requirements provided, with reference to official PlayStation documentation for technical accuracy.
+This manual was created using Microsoft Copilot for content generation, Grammarly for proofreading, and Markdown for formatting.
 
 ---
 
