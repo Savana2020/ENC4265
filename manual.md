@@ -57,7 +57,7 @@ This manual covers everything you need to know to get started, including physica
 ---
 ### What's in the Box 
 Before beginning setup, verify that your PS5 package contains all the necessary components:
- Figure 1: Standard contents of a PS5 retail package
+
 - PlayStation 5 console
 - DualSense wireless controller
 - Console base (stand)
@@ -70,10 +70,10 @@ Before beginning setup, verify that your PS5 package contains all the necessary 
 
 ---
 ### Console Setup 
-**Attaching the Console Base**
-The PS5 console base (or feet) must be attached whether you position your console horizontally or vertically. This ensures proper ventilation and stability.
- Figure 2: The PS5 console base attachment
-**For Vertical Positioning:**
+**Attaching the Console Base** 
+The PS5 console base (or feet) must be attached whether you position your console horizontally or vertically. This ensures proper ventilation and stability. 
+
+**For Vertical Positioning:** 
 1.	Place your console on a soft surface with the disc slot side facing down.
 2.	Position the base over the circular attachment point on the bottom of the console.
 3.	Remove the screw cover cap from the base and take out the screw.
