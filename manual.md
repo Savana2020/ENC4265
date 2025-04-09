@@ -64,7 +64,7 @@ The PS5 console base (or feet) must be attached whether you position your consol
 4.	Press the base firmly until it clicks into place.
 **Why This Matters:** The console base is essential for proper airflow and stability. Without it, your PS5 may overheat or become damaged if it falls over.
 **Horizontal vs. Vertical Positioning**
- Figure 3: PS5 in both horizontal and vertical positions
+
 The PS5 can be positioned either horizontally or vertically based on your space and preference. Consider these factors when deciding:
 **Vertical Positioning:**
 - Takes up less horizontal spac
@@ -82,7 +82,7 @@ The PS5 can be positioned either horizontally or vertically based on your space 
 ### Connections and Cables 
 **HDMI Connection**
 The PS5 uses HDMI 2.1 for video and audio output to your display.
- Figure 4: Connecting the HDMI cable to the PS5 and TV
+
 1.	Locate the HDMI OUT port on the back of your PS5.
 2.	Connect one end of the included HDMI cable to this port.
 3.	Connect the other end to an available HDMI port on your TV or monitor.
@@ -93,7 +93,7 @@ The PS5 uses HDMI 2.1 for video and audio output to your display.
 - If your TV supports multiple HDMI standards, use the highest version available (typically labeled as "HDMI 2.1" or "4K").
 **Why This Matters:** The HDMI connection determines your visual and audio experience. Using the correct port and cable ensures you get the best possible quality your display can support.
 **Power Connection**
- Figure 5: Connecting the power cable to the PS5
+
 1.	Locate the AC IN port on the back of your PS5.
 2.	Insert the power cord firmly into this port.
 3.	Connect the other end to a wall outlet or surge protector.
@@ -105,7 +105,7 @@ The PS5 uses HDMI 2.1 for video and audio output to your display.
 **Internet Connection**
 **Wired Connection**
 A wired connection provides the most stable and fastest internet experience.
- Figure 6: Connecting an Ethernet cable to the PS5
+
 1.	Locate the LAN port on the back of your PS5.
 2.	Connect one end of an Ethernet cable (not included) to this port.
 3.	Connect the other end to an available port on your router or network switch.
@@ -127,7 +127,7 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 ---
 ### Controller Setup 
 **Charging Your DualSense Controller**
- Figure 7: Charging the DualSense controller via USB-C
+
 1.	Locate the USB-C port on the top of your DualSense controller.
 2.	Connect the small end of the included USB-C cable to this port.
 3.	Connect the larger USB-A end to one of the USB ports on your PS5.
@@ -138,7 +138,7 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 - For extended play sessions, consider purchasing a second controller or charging station.
 **Why This Matters:** The DualSense controller has a battery life of approximately 6-12 hours depending on usage. Proper charging ensures uninterrupted gameplay.
 **Pairing Your Controller**
- Figure 8: Pairing a DualSense controller with the PS5
+
 1.	Connect your controller to the PS5 using the USB-C cable.
 2.	Press the PS button (in the center of the controller) to pair it.
 3.	Once paired, you can disconnect the cable for wireless play.
@@ -152,7 +152,7 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 ---
 ### Initial System Setup 
 **Language and Network Settings**
- Figure 9: The PS5 initial setup screen
+
 1.	Turn on your TV and set it to the correct HDMI input.
 2.	Press the power button on the front of your PS5 (a beep will sound).
 3.	When prompted, press the PS button on your controller.
@@ -163,7 +163,7 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 6.	Set your time zone.
 **Why This Matters:** These basic settings ensure your console displays the correct language and maintains accurate time for system functions and game features.
 **User Account Creation**
- Figure 10: Creating a user account on the PS5
+
 1.	Choose "Set Up Now" when prompted to create a user.
 2.	Select "Get Started" on the user creation screen.
 3.	Enter your name as you want it to appear.
@@ -174,7 +174,7 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 - Consider privacy settings carefully, especially for accounts used by children.
 **Why This Matters:** User accounts keep game saves, trophies, and settings separate for each player, providing a personalized experience.
 **PlayStation Network Login**
- Figure 11: PlayStation Network sign-in screen
+
 1.	Select "Sign In to PSN" when prompted.
 2.	Enter your existing PlayStation Network email and password.
 3.	If you don't have an account, select "Create Account" and follow the on-screen instructions.
@@ -189,7 +189,7 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 ---
 ### Data Transfer from PS4 
 **Wireless Transfer Method**
- Figure 12: PS5 data transfer setup screen
+
 1.	Ensure both your PS4 and PS5 are connected to the same network.
 2.	On your PS5, go to Settings > System > System Software > Data Transfer.
 3.	Select "Continue" and follow the on-screen instructions.
@@ -208,7 +208,7 @@ If you have PS4 games on an external USB drive:
 ---
 ### Installing Games 
 **Disc Installation**
- Figure 13: Inserting a game disc into the PS5
+
 1.	Make sure your PS5 is powered on.
 2.	Insert the game disc into the disc slot with the label side facing the white side of the console (if vertical) or facing up (if horizontal).
 3.	The console will automatically read the disc and begin installation.
@@ -216,7 +216,7 @@ If you have PS4 games on an external USB drive:
 5.	Once installed, the game will appear in your game library.
 **Note:** Even with physical discs, games require installation to the internal storage before playing. The disc must remain in the console during play for verification.
 **Digital Downloads**
- Figure 14: The PlayStation Store interface
+
 1.	From the PS5 home screen, select the PlayStation Store icon.
 2.	Browse or search for the game you want to download.
 3.	Select the game and choose "Add to Library" or "Purchase."
@@ -232,7 +232,7 @@ If you have PS4 games on an external USB drive:
 ---
 ### System Settings and Customization 
 **Display Settings**
- Figure 15: PS5 display settings menu
+
 1.	Go to Settings > Screen and Video.
 2.	Configure your Resolution and HDR settings based on your TV's capabilities.
 3.	Adjust 4K Transfer Rate if you experience display issues.
@@ -244,7 +244,7 @@ If you have PS4 games on an external USB drive:
 - 120Hz Output: Automatic (if supported by your TV)
 **Why This Matters:** Proper display settings ensure you get the best visual experience your TV can provide, with accurate colors and smooth motion.
 **Audio Settings**
- Figure 16: PS5 audio settings menu
+
 1.	Go to Settings > Sound.
 2.	Configure your Audio Output device.
 3.	Set your preferred audio format:
@@ -257,7 +257,7 @@ If you have PS4 games on an external USB drive:
 - Calibrate audio levels using the test tones provided.
 **Why This Matters:** Proper audio settings enhance immersion and can provide competitive advantages in games by accurately representing spatial audio cues.
 **Storage Management**
- Figure 17: PS5 storage management screen
+
 1.	Go to Settings > Storage.
 2.	View your available space on the console storage and any extended storage.
 3.	Select "Console Storage" to see a breakdown by game and app.
@@ -271,7 +271,7 @@ If you have PS4 games on an external USB drive:
 ---
 ### Using the Create Button 
 **Taking Screenshots**
- Figure 18: Using the Create button to take a screenshot
+
 1.	During gameplay, press the Create button once to open the Create menu.
 2.	Select "Take Screenshot" or use the shortcut: press and hold the Create button.
 3.	Screenshots are automatically saved to your Media Gallery.
@@ -279,7 +279,7 @@ If you have PS4 games on an external USB drive:
 - Use the editing tools in the Media Gallery to crop or enhance your screenshots.
 - Share directly to social media or message friends from the Media Gallery.
 **Recording Gameplay**
- Figure 19: Recording gameplay with the Create button
+
 1.	During gameplay, press the Create button once to open the Create menu.
 2.	Select "Start New Recording" or use the shortcut: double-press the Create button to start/stop recording.
 3.	To save recent gameplay, select "Save Recent Gameplay" and choose your preferred duration.
@@ -293,7 +293,7 @@ If you have PS4 games on an external USB drive:
 ---
 ### Troubleshooting 
 **Common Setup Issues**
- Figure 20: PS5 troubleshooting menu
+
 **No Display Signal:**
 1.	Ensure your TV is set to the correct HDMI input.
 2.	Try a different HDMI port on your TV.
@@ -321,7 +321,7 @@ If you encounter system software issues:
 
 ---
 ### Maintenance and Care 
-Figure 21: Proper PS5 maintenance and cleaning
+
 **Regular Maintenance:**
 - Keep your PS5 in a well-ventilated area with at least 4 inches of clearance on all sides.
 - Regularly dust the exterior with a soft, dry cloth.
