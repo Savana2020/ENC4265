@@ -12,8 +12,8 @@ ________________________________________
 ### Table of Contents 
 
 1. [Introduction](#introduction)
-2. [What's in the Box](#what's-in-the-box)
-3. Console Setup
+2. [What's in the Box](#whats-in-the-box)
+3. Console Setup[Console Setup](#console-setup)
 4. Attaching the Console Base
 5. Horizontal vs. Vertical Positioning
 6. Connections and Cables
