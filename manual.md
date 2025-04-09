@@ -346,7 +346,7 @@ If you encounter system software issues:
 
 ---
 ### AI Statement 
-This manual was created using Microsoft Copilot for content generation, Grammarly for proofreading, and Markdown for formatting.
+This manual was created using Microsoft Copilot for content generation and Grammarly for proofreading.
 
 ---
 
