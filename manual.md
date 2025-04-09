@@ -11,7 +11,7 @@ Full product manuals like this one explain steps for several multi-step procedur
 ________________________________________
 ### Table of Contents 
 
-1. [Introduction](###introduction)
+1. [Introduction](#introduction)
 2. What's in the Box
 3. Console Setup
 4. Attaching the Console Base
