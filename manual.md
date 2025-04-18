@@ -34,6 +34,7 @@ This manual covers everything you need to know to get started, including physica
 ---
 ### What's in the Box 
 Before beginning setup, verify that your PS5 package contains all the necessary components:
+![image](https://github.com/user-attachments/assets/c890834d-a48e-41b3-b273-00544c77a923)
 
 - PlayStation 5 console
 - DualSense wireless controller
@@ -47,110 +48,139 @@ Before beginning setup, verify that your PS5 package contains all the necessary 
 
 ---
 ### Console Setup 
-**Attaching the Console Base** 
+**Attaching the Console Base**  
 The PS5 console base (or feet) must be attached whether you position your console horizontally or vertically. This ensures proper ventilation and stability. 
 
-**For Vertical Positioning:** 
-1.	Place your console on a soft surface with the disc slot side facing down.
-2.	Position the base over the circular attachment point on the bottom of the console.
-3.	Remove the screw cover cap from the base and take out the screw.
-4.	Align the base with the attachment point and secure it by turning the screw clockwise.
-5.	Replace the screw cover cap.
+**For Vertical Positioning:**   
+1. Align the hook (A) and the groove on the base by rotating the top and bottom parts of the base in opposite directions. Keep rotating until you hear a "click".
+![image](https://github.com/user-attachments/assets/7cc31070-6fc1-40b5-93d4-fcceb743504c)
+
+2. Place the console with the rear side facing up, and then remove the cap from the screw hole.
+   ![image](https://github.com/user-attachments/assets/20c6aba3-7ed2-4d7a-a80b-bb3308b2f25c)
+
+3. Store the cap in the bottom of the base, and then remove the screw from the bottom of the base.
+   ![image](https://github.com/user-attachments/assets/c5f9ba6e-8200-4358-9710-f6113c07e8f5)
+
+4. Attach the base and then secure it with the screw using your hand. You can also use a coin to tighten the screw.
+   ![image](https://github.com/user-attachments/assets/d3fb4cac-ea29-47f9-97b4-58649e098a26)
+
+5. Replace the screw cover cap.  
 
 **For Horizontal Positioning:**
-1.	Rotate the base so the clamps are facing outward.
-2.	Place your console on a soft surface with the white cover facing up.
-3.	Align the base with the marked area on the back of the console.
-4.	Press the base firmly until it clicks into place.
-**Why This Matters:** The console base is essential for proper airflow and stability. Without it, your PS5 may overheat or become damaged if it falls over.
-**Horizontal vs. Vertical Positioning**
+1.	Unalign the hook (A) and the groove on the base by rotating the top and bottom parts of the base in opposite directions. Keep rotating until you hear a "click".
+   ![image](https://github.com/user-attachments/assets/1eb6033a-17a5-49ad-aabb-b2490c733322)
 
-The PS5 can be positioned either horizontally or vertically based on your space and preference. Consider these factors when deciding:
-**Vertical Positioning:**
+2.	Place the console with the rear side facing up. Align the base with the marked area on the console, and press the base in firmly.
+  ![image](https://github.com/user-attachments/assets/71cc2b11-e41d-44af-b10a-265069b373d4)
+
+  
+  **Why This Matters:** The console base is essential for proper airflow and stability. Without it, your PS5 may overheat or become damaged if it falls over.  
+  **Horizontal vs. Vertical Positioning**  
+  The PS5 can be positioned either horizontally or vertically based on your space and preference. Consider these factors when deciding:  
+  **Vertical Positioning:**
 - Takes up less horizontal spac
 - Provides optimal airflow
 - Requires more vertical clearance (at least 4 inches above)
 - May be less stable in households with pets or small children
+
 **Horizontal Positioning:**
 - More stable configuration
 - Better for tight shelves with limited height
 - Still requires at least 4 inches of clearance on all sides
 - Disc slot will be on the left side
+
 **Why This Matters:** Proper positioning affects both the console's cooling efficiency and its stability. Always ensure adequate ventilation regardless of position.
 
 ---
-### Connections and Cables 
-**HDMI Connection**
+### Connections and Cables  
+**HDMI Connection**  
 The PS5 uses HDMI 2.1 for video and audio output to your display.
+![image](https://github.com/user-attachments/assets/602e0e08-d3b3-4e6f-8fed-b79d746e159a)
 
 1.	Locate the HDMI OUT port on the back of your PS5.
 2.	Connect one end of the included HDMI cable to this port.
 3.	Connect the other end to an available HDMI port on your TV or monitor.
 4.	Note which HDMI input you've used on your TV (HDMI 1, 2, etc.).
+
 **Best Practices:**
 - Use the HDMI cable provided with your PS5 for optimal performance.
 - For 4K/120Hz gameplay, connect to an HDMI 2.1 compatible port on your TV (if available).
 - If your TV supports multiple HDMI standards, use the highest version available (typically labeled as "HDMI 2.1" or "4K").
-**Why This Matters:** The HDMI connection determines your visual and audio experience. Using the correct port and cable ensures you get the best possible quality your display can support.
+
+**Why This Matters:** The HDMI connection determines your visual and audio experience. Using the correct port and cable ensures you get the best possible quality your display can support.  
+
 **Power Connection**
 
 1.	Locate the AC IN port on the back of your PS5.
 2.	Insert the power cord firmly into this port.
 3.	Connect the other end to a wall outlet or surge protector.
+
 **Best Practices:**
 - Connect directly to a wall outlet when possible.
 - If using a surge protector, ensure it can handle the PS5's power requirements.
 - Avoid using extension cords or daisy-chaining power strips.
-**Why This Matters:** Stable power is crucial for preventing data corruption and hardware damage. The PS5 consumes significant power, especially during intensive gaming sessions.
-**Internet Connection**
-**Wired Connection**
+
+**Why This Matters:** Stable power is crucial for preventing data corruption and hardware damage. The PS5 consumes significant power, especially during intensive gaming sessions.  
+
+**Internet Connection**  
+**Wired Connection**  
 A wired connection provides the most stable and fastest internet experience.
+![image](https://github.com/user-attachments/assets/1efdcaf8-3d06-43dc-83a2-96e43621e86f)
 
 1.	Locate the LAN port on the back of your PS5.
 2.	Connect one end of an Ethernet cable (not included) to this port.
 3.	Connect the other end to an available port on your router or network switch.
+
 **Best Practices:**
 - Use Cat 6 or better Ethernet cables for optimal performance.
 - Keep cable runs under 100 meters (328 feet).
 - Avoid sharp bends in the cable.
-**Wireless Connection**
+
+**Wireless Connection**  
 If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 1.	You'll configure Wi-Fi during the initial system setup.
 2.	Have your Wi-Fi network name (SSID) and password ready.
+
 **Best Practices:**
 - Position your PS5 as close to your router as possible.
 - Reduce physical obstructions between your PS5 and router.
 - Consider a mesh network system for large homes.
 - Use the 5GHz band when available for faster speeds.
+
 **Why This Matters:** Your internet connection affects download speeds, online gameplay performance, and streaming quality. A stable connection is essential for the best experience.
 
 ---
-### Controller Setup 
+### Controller Setup  
 **Charging Your DualSense Controller**
+![image](https://github.com/user-attachments/assets/d8941afb-b950-4c6d-8423-d785428e7f25)
 
 1.	Locate the USB-C port on the top of your DualSense controller.
 2.	Connect the small end of the included USB-C cable to this port.
 3.	Connect the larger USB-A end to one of the USB ports on your PS5.
 4.	The light bar will pulse orange while charging and turn off when fully charged.
+
 **Best Practices:**
 - Charge the controller fully before first use (approximately 3 hours).
 - The controller can be charged while the console is in Rest Mode.
 - For extended play sessions, consider purchasing a second controller or charging station.
-**Why This Matters:** The DualSense controller has a battery life of approximately 6-12 hours depending on usage. Proper charging ensures uninterrupted gameplay.
+
+**Why This Matters:** The DualSense controller has a battery life of approximately 6-12 hours depending on usage. Proper charging ensures uninterrupted gameplay.  
 **Pairing Your Controller**
 
 1.	Connect your controller to the PS5 using the USB-C cable.
 2.	Press the PS button (in the center of the controller) to pair it.
 3.	Once paired, you can disconnect the cable for wireless play.
+
 **For Additional Controllers:**
 1.	From the PS5 home screen, go to Settings > Accessories > General > Bluetooth Accessories.
 2.	On the new controller, press and hold the PS button and Create button simultaneously until the light bar flashes.
 3.	The controller will appear in the list of available devices on screen.
 4.	Select it to complete pairing.
+
 **Why This Matters:** Proper pairing ensures your controller inputs are recognized correctly and prevents interference with other wireless devices.
 
 ---
-### Initial System Setup 
+### Initial System Setup  
 **Language and Network Settings**
 
 1.	Turn on your TV and set it to the correct HDMI input.
@@ -161,18 +191,22 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 - For Wi-Fi: Select your network and enter the password.
 - For wired: The system should detect the connection automatically.
 6.	Set your time zone.
-**Why This Matters:** These basic settings ensure your console displays the correct language and maintains accurate time for system functions and game features.
-**User Account Creation**
+
+  **Why This Matters:** These basic settings ensure your console displays the correct language and maintains accurate time for system functions and game features.
+
+  **User Account Creation**
 
 1.	Choose "Set Up Now" when prompted to create a user.
 2.	Select "Get Started" on the user creation screen.
 3.	Enter your name as you want it to appear.
 4.	Customize your avatar or profile picture.
 5.	Adjust your privacy settings as desired.
+
 **Best Practices:**
 - Create separate user accounts for each person who will use the console.
 - Consider privacy settings carefully, especially for accounts used by children.
-**Why This Matters:** User accounts keep game saves, trophies, and settings separate for each player, providing a personalized experience.
+
+**Why This Matters:** User accounts keep game saves, trophies, and settings separate for each player, providing a personalized experience.  
 **PlayStation Network Login**
 
 1.	Select "Sign In to PSN" when prompted.
@@ -180,14 +214,16 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 3.	If you don't have an account, select "Create Account" and follow the on-screen instructions.
 4.	Complete two-factor authentication if enabled.
 5.	Review and accept the terms of service.
+
 **Best Practices:**
 - Use a strong, unique password for your PSN account.
 - Enable two-factor authentication for additional security.
 - Keep your payment information up to date if you plan to make digital purchases.
+
 **Why This Matters:** A PSN account is required for online gaming, downloading games from the PlayStation Store, and accessing subscription services like PlayStation Plus.
 
 ---
-### Data Transfer from PS4 
+### Data Transfer from PS4  
 **Wireless Transfer Method**
 
 1.	Ensure both your PS4 and PS5 are connected to the same network.
@@ -195,18 +231,19 @@ If a wired connection isn't possible, the PS5 supports Wi-Fi 6 (802.11ax).
 3.	Select "Continue" and follow the on-screen instructions.
 4.	On your PS4, press and hold the power button until you hear a beep.
 5.	Return to your PS5 and select the data you want to transfer.
-6.	Select "Start Transfer" and wait for the process to complete.
-**Note:** Transfer times vary based on the amount of data and your network speed. Large transfers can take several hours.
+6.	Select "Start Transfer" and wait for the process to complete. **Note:** Transfer times vary based on the amount of data and your network speed. Large transfers can take several hours.
+
 **External Storage Transfer Method**
 If you have PS4 games on an external USB drive:
 1.	Safely disconnect the drive from your PS4.
 2.	Connect it to a USB port on your PS5.
 3.	Go to Settings > Storage > Extended Storage.
 4.	Your PS4 games will appear in your game library and can be played directly from the external drive.
+
 **Why This Matters:** Transferring your data saves time reinstalling games and preserves your game saves, allowing you to continue your progress on the new console.
 
 ---
-### Installing Games 
+### Installing Games  
 **Disc Installation**
 
 1.	Make sure your PS5 is powered on.
@@ -215,6 +252,7 @@ If you have PS4 games on an external USB drive:
 4.	Follow any on-screen prompts for updates or additional downloads.
 5.	Once installed, the game will appear in your game library.
 **Note:** Even with physical discs, games require installation to the internal storage before playing. The disc must remain in the console during play for verification.
+
 **Digital Downloads**
 
 1.	From the PS5 home screen, select the PlayStation Store icon.
@@ -223,10 +261,12 @@ If you have PS4 games on an external USB drive:
 4.	Complete the payment process if required.
 5.	Select "Download" to begin installation.
 6.	The download progress will appear in the Downloads/Uploads section of the Control Center.
-**Best Practices:**
+
+  **Best Practices:**
 - Use Rest Mode to continue downloads when not actively using the console.
 - Consider downloading large games overnight or during off-peak hours.
 - Prioritize downloads by selecting them in the download queue.
+
 **Why This Matters:** Proper installation ensures games run smoothly without corruption or performance issues.
 
 ---
@@ -237,12 +277,15 @@ If you have PS4 games on an external USB drive:
 2.	Configure your Resolution and HDR settings based on your TV's capabilities.
 3.	Adjust 4K Transfer Rate if you experience display issues.
 4.	Set your preferred Video Output Information.
+
 **Recommended Settings:**
 - Resolution: 4K (if supported by your TV)
 - HDR: Automatic (if supported by your TV)
 - Deep Color Output: Automatic
 - 120Hz Output: Automatic (if supported by your TV)
-**Why This Matters:** Proper display settings ensure you get the best visual experience your TV can provide, with accurate colors and smooth motion.
+
+**Why This Matters:** Proper display settings ensure you get the best visual experience your TV can provide, with accurate colors and smooth motion.  
+
 **Audio Settings**
 
 1.	Go to Settings > Sound.
@@ -251,21 +294,26 @@ If you have PS4 games on an external USB drive:
 - TV Speakers: Usually PCM
 - Soundbar/AV Receiver: Bitstream (Dolby/DTS) if supported
 4.	Adjust 3D Audio settings for headphones if desired.
+
 **Best Practices:**
 - Use the HDMI connection for both video and audio when possible.
 - For headphones, enable 3D Audio for a more immersive experience.
 - Calibrate audio levels using the test tones provided.
-**Why This Matters:** Proper audio settings enhance immersion and can provide competitive advantages in games by accurately representing spatial audio cues.
+
+**Why This Matters:** Proper audio settings enhance immersion and can provide competitive advantages in games by accurately representing spatial audio cues.  
+
 **Storage Management**
 
 1.	Go to Settings > Storage.
 2.	View your available space on the console storage and any extended storage.
 3.	Select "Console Storage" to see a breakdown by game and app.
 4.	To free up space, select items and choose "Delete."
+
 **Best Practices:**
 - Regularly review and delete unused games and apps.
 - Move PS4 games to external storage to save space on the internal SSD.
 - Consider installing an M.2 SSD expansion if you need additional high-speed storage.
+
 **Why This Matters:** The PS5's internal storage is limited (667GB usable), and modern games can be very large (50-150GB each). Effective storage management prevents running out of space.
 
 ---
@@ -275,39 +323,46 @@ If you have PS4 games on an external USB drive:
 1.	During gameplay, press the Create button once to open the Create menu.
 2.	Select "Take Screenshot" or use the shortcut: press and hold the Create button.
 3.	Screenshots are automatically saved to your Media Gallery.
+
 **Best Practices:**
 - Use the editing tools in the Media Gallery to crop or enhance your screenshots.
 - Share directly to social media or message friends from the Media Gallery.
+
 **Recording Gameplay**
 
 1.	During gameplay, press the Create button once to open the Create menu.
 2.	Select "Start New Recording" or use the shortcut: double-press the Create button to start/stop recording.
 3.	To save recent gameplay, select "Save Recent Gameplay" and choose your preferred duration.
 4.	Recordings are saved to your Media Gallery.
+
 **Recording Options:**
 - Resolution: Up to 4K (3840 x 2160) for compatible games
 - Duration: Up to 60 minutes per clip
 - Format: MP4 video
+
 **Why This Matters:** The Create button allows you to capture and share your gaming moments, achievements, and experiences with friends or the broader gaming community.
 
 ---
 ### Troubleshooting 
-**Common Setup Issues**
+**Common Setup Issues**  
 
 **No Display Signal:**
 1.	Ensure your TV is set to the correct HDMI input.
 2.	Try a different HDMI port on your TV.
 3.	Replace the HDMI cable if possible.
 4.	Reset your PS5 display settings by holding the power button until you hear two beeps.
+
 **Controller Won't Connect:**
 1.	Reset your controller using the small reset button on the back (use a paperclip).
 2.	Try connecting with the USB cable.
 3.	Ensure the controller is charged.
+
 **Network Connection Issues:**
 1.	Test your connection in Settings > Network > Connection Status.
 2.	Restart your router and modem.
 3.	Try a wired connection if possible.
-**System Software Problems**
+
+**System Software Problems**  
 If you encounter system software issues:
 1.	Go to Settings > System > System Software > System Software Update and Settings.
 2.	Select "Update System Software" to ensure you have the latest version.
@@ -316,7 +371,8 @@ If you encounter system software issues:
 - Press and hold the power button until you hear two beeps.
 - Connect your controller with the USB cable.
 - Select "Update System Software" from the Safe Mode menu.
-**For Persistent Issues:** Visit the PlayStation support website at https://playstation.com/repairs or contact PlayStation Support.
+
+**For Persistent Issues:** Visit the PlayStation support website at https://playstation.com/repairs or contact PlayStation Support.  
 **Why This Matters:** Troubleshooting knowledge helps you resolve common issues quickly without needing to contact support or experience extended downtime.
 
 ---
@@ -327,14 +383,17 @@ If you encounter system software issues:
 - Regularly dust the exterior with a soft, dry cloth.
 - Check and clean the air vents monthly using compressed air (spray from a distance).
 - Keep liquids away from the console and controllers.
+
 **Storage Considerations:**
 - Store in a cool, dry place when not in use.
 - Use the original packaging for long-term storage or transportation.
 - Remove discs before moving the console.
+
 **Controller Care:**
 - Clean with a slightly damp microfiber cloth.
 - Avoid getting moisture in any openings.
 - Store in a protective case when not in use.
+
 **Why This Matters:** Proper maintenance extends the lifespan of your console and controllers, prevents overheating, and ensures optimal performance over time.
 
 ---
@@ -345,7 +404,7 @@ If you encounter system software issues:
 - PlayStation Network Terms of Service: https://www.playstation.com/legal/psn-terms-of-service/
 
 ---
-### AI Statement 
+### AI Statement  
 This manual was created using Microsoft Copilot for content generation and Grammarly for proofreading.
 
 ---
