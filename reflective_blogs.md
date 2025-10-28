@@ -71,6 +71,7 @@ Binding off is the opposite of casting on. It can be done across an entire row a
 2. Knit one and repeat the first step until one stitch remains. Bind off the last stitch by pulling the yarn through the final loop. In patterns, this is called fastening off.  
 
 No AI was used in the writting of this reflective blog.  
+
 ---
 # Reflective Blog 5
 
