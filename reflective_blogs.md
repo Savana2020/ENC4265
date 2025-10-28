@@ -66,9 +66,10 @@ There are two main stitches in knitting. The knit stitch is the first. Hold the 
 The purl stitch is the other half of basic knitting. The bumps look like pearls, which is why the stitch is called purl. Make sure the yarn is on the front side of the needle before starting the stitch. Insert the right-hand needle from back to front into the loop on the needle. Wrap the working yarn counterclockwise, draw the new loop through to the back, and drop off the old loop. The strand of working yarn will now be in front of the right-hand needle instead of in front of the left-hand needle. The purl stitch is exactly as easy as the knit stitch because purling is simply knitting from the back of the fabric to the front. 
 ### Binding off
 Binding off is the opposite of casting on. It can be done across an entire row at once or a few stitches at a time to shape necklines or sleeves. Stitches are removed one by one and locked so they do not unravel. The bound-off edge should be stretchy but firm enough to hold its shape. The most common bind-off used is the lift-over bind-off.  
-**Knit lift-over bind-off**  
+**Knit lift-over bind-off:**  
 1. Knit two stitches, lift the first stitch over the second stitch, and drop it off the right-hand needle.  
 2. Knit one and repeat the first step until one stitch remains. Bind off the last stitch by pulling the yarn through the final loop. In patterns, this is called fastening off.  
+
 No AI was used in the writting of this reflective blog.  
 ---
 # Reflective Blog 5
